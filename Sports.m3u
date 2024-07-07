@@ -416,7 +416,192 @@ https://allinonereborn.tech/doordarshan.m3u8?id=8456
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENG 1 4K 
 https://allinonereborn.tech/doordarshan.m3u8?id=10904
 
-
+#EXTINF:-1 tvg-id="" group-title="⚡@allinonereborn" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
+https://embed-cloudfront.wistia.com/deliveries/f9c6180d9602d3bd40a42f14434d55d77242f945.m3u8
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENG 2 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10907
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENG 3 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10910
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 1 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=12069
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 2 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=12074
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 3 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=12079
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 1 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=23815
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 2 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=23820
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 3 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=23825
+#EXTINF:-1 tvg-id="uk_btsport1.uk" tvg-logo="" group-title="SPORTS",BT SPORTS 1 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5280
+#EXTINF:-1 tvg-id="uk_btsport2.uk" tvg-logo="" group-title="SPORTS",BT SPORTS 2 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5281
+#EXTINF:-1 tvg-id="uk_btsport3.uk" tvg-logo="" group-title="SPORTS",BT SPORTS 3 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5282
+#EXTINF:-1 tvg-id="uk_btsportespn.uk" tvg-logo="" group-title="SPORTS",BT SPORTS ESPN 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5283
+#EXTINF:-1 tvg-id="us_cbssportsnetwork.us" tvg-logo="" group-title="SPORTS",CBS SPORTS NETWORK 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5220
+#EXTINF:-1 tvg-id="sf_supersportvariety1.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 1 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4875
+#EXTINF:-1 tvg-id="sf_supersportvariety2.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 2 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4905
+#EXTINF:-1 tvg-id="sf_supersportvariety3.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 3 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4939
+#EXTINF:-1 tvg-id="sf_supersportvariety4.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 4 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4889
+#EXTINF:-1 tvg-id="sf_supersportblitz.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS BLITZ 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4902
+#EXTINF:-1 tvg-id="sf_supersportpremierleague.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PREMIER LEAGUE 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4965
+#EXTINF:-1 tvg-id="sf_supersportrugby.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS RUGBY 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4930
+#EXTINF:-1 tvg-id="sf_supersportfootball.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS FOOTBALL 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4877
+#EXTINF:-1 tvg-id="sf_supersportfootballplus.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS FOOTBALL PLUS 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4885
+#EXTINF:-1 tvg-id="sf_supersportlaliga.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS LA LAGIA 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4966
+#EXTINF:-1 tvg-id="sf_supersportpsl.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PSL 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4954
+#EXTINF:-1 tvg-id="sf_supersportaction.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS ACTION 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4981
+#EXTINF:-1 tvg-id="sf_supersportmaximo1.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS MAXIMO 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=6218
+#EXTINF:-1 tvg-id="sf_supersportgrandstand.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS GRANDSTAND 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5918
+#EXTINF:-1 tvg-id="sf_supersportgolf.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS GOLF 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5347
+#EXTINF:-1 tvg-id="sf_supersportmotorsport.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS MOTORSPORT 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4972
+#EXTINF:-1 tvg-id="sf_supersporttennis.za" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS TENNIS 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=4895
+#EXTINF:-1 tvg-id="us_ballysportsnorth.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS NORTH 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24138
+#EXTINF:-1 tvg-id="us_ballysportssouth.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24143
+#EXTINF:-1 tvg-id="us_ballysportssoutheast.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHEAST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24148
+#EXTINF:-1 tvg-id="us_ballysportssouthwest.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHWEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24173
+#EXTINF:-1 tvg-id="us_ballysportssouthwestplus.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHWEST PLUS 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24178
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH EXTRA 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24163
+#EXTINF:-1 tvg-id="us_ballysportswest.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24158
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST PLUS 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24183
+#EXTINF:-1 tvg-id="us_ballysportsmidwest.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24153
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST EXTRA 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=24168
+#EXTINF:-1 tvg-id="us_foxsports1.us" tvg-logo="" group-title="SPORTS",FOX SPORTS 1 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=8967
+#EXTINF:-1 tvg-id="us_foxsports2.us" tvg-logo="" group-title="SPORTS",FOX SPORTS 2 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=8974
+#EXTINF:-1 tvg-id="foxsports3.sg" tvg-logo="" group-title="SPORTS",FOX SPORTS 3 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10313
+#EXTINF:-1 tvg-id="us_foxsportsnorth.us" tvg-logo="" group-title="SPORTS",FOX SPORTS NORTH 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5244
+#EXTINF:-1 tvg-id="us_foxsportssouth.us" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTH 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5241
+#EXTINF:-1 tvg-id="us_foxsportssoutheast.us" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTHEAST 4K (GEORGIA) 
+https://allinonereborn.tech/doordarshan.m3u8?id=5240
+#EXTINF:-1 tvg-id="us_foxsportswest.us" tvg-logo="" group-title="SPORTS",FOX SPORTS WEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10295
+#EXTINF:-1 tvg-id="us_foxsportssouthwest.us" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTHWEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5239
+#EXTINF:-1 tvg-id="us_foxsportswestprimeticket.us" tvg-logo="" group-title="SPORTS",FOX SPORTS PRIME TICKET 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5248
+#EXTINF:-1 tvg-id="us_foxsportsoklahoma.us" tvg-logo="" group-title="SPORTS",FOX SPORTS OKLAHOMA 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10298
+#EXTINF:-1 tvg-id="us_foxsportsarizona.us" tvg-logo="" group-title="SPORTS",FOX SPORTS ARIZONA 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5247
+#EXTINF:-1 tvg-id="us_foxsportssun.us" tvg-logo="" group-title="SPORTS",FOX SPORTS SUN 4K (SOUTH FLORIDA) 
+https://allinonereborn.tech/doordarshan.m3u8?id=5238
+#EXTINF:-1 tvg-id="us_foxsportsflorida.us" tvg-logo="" group-title="SPORTS",FOX SPORTS FLORIDA 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5246
+#EXTINF:-1 tvg-id="us_foxsportssandiego.us" tvg-logo="" group-title="SPORTS",FOX SPORTS SAN DIEGO 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5242
+#EXTINF:-1 tvg-id="us_foxsportsmidwest.us" tvg-logo="" group-title="SPORTS",FOX SPORTS MIDWEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5245
+#EXTINF:-1 tvg-id="us_foxsportsohiocincinnati.us" tvg-logo="" group-title="SPORTS",FOX SPORTS OHIO 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5243
+#EXTINF:-1 tvg-id="us_foxsportsdetroit.us" tvg-logo="" group-title="SPORTS",FOX SPORTS DETROIT 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10301
+#EXTINF:-1 tvg-id="us_foxsportsohiocincinnati.us" tvg-logo="" group-title="SPORTS",FOX SPORTS CINCINNATI 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10304
+#EXTINF:-1 tvg-id="us_foxsportswisconsin.us" tvg-logo="" group-title="SPORTS",FOX SPORTS WISCONSIN 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5236
+#EXTINF:-1 tvg-id="us_foxsportstennessee.us" tvg-logo="" group-title="SPORTS",FOX SPORTS TENNESSEE 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10307
+#EXTINF:-1 tvg-id="us_foxsportssouthcarolinas.us" tvg-logo="" group-title="SPORTS",FOX SPORTS CAROLINAS 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10310
+#EXTINF:-1 tvg-id="us_foxmidwestkansascity.us" tvg-logo="" group-title="SPORTS",FOX SPORTS KANSAS CITY 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5237
+#EXTINF:-1 tvg-id="us_foxsoccerplus.us" tvg-logo="" group-title="SPORTS",FOX SOCCER PLUS HD 
+https://allinonereborn.tech/doordarshan.m3u8?id=5249
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 501 AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5365
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 502 AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5364
+#EXTINF:-1 tvg-id="foxsports503.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 503 AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5363
+#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 504 AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5362
+#EXTINF:-1 tvg-id="foxsports505.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 505 AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5360
+#EXTINF:-1 tvg-id="foxsports506.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 506 AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5361
+#EXTINF:-1 tvg-id="foxsportsnews.au" tvg-logo="" group-title="SPORTS",FOX SPORTS NEWS AU 
+https://allinonereborn.tech/doordarshan.m3u8?id=5359
+#EXTINF:-1 tvg-id="ca_sportsneteast.ca" tvg-logo="" group-title="SPORTS",SPORTSNET EAST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5299
+#EXTINF:-1 tvg-id="ca_sportsnetwest.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=7239
+#EXTINF:-1 tvg-id="ca_sportsnetpacific.ca" tvg-logo="" group-title="SPORTS",SPORTSNET PACIFIC 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5295
+#EXTINF:-1 tvg-id="ca_sportsnetone.ca" tvg-logo="" group-title="SPORTS",SPORTSNET ONE 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5294
+#EXTINF:-1 tvg-id="ca_sportsnetontario.ca" tvg-logo="" group-title="SPORTS",SPORTSNET ONTARIO 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5298
+#EXTINF:-1 tvg-id="ca_sportsnetworld.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5296
+#EXTINF:-1 tvg-id="ca_sportsnet360.ca" tvg-logo="" group-title="SPORTS",SPORTSNET 360 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=5297
+#EXTINF:-1 tvg-id="us_spectrumsportsnet.us" tvg-logo="" group-title="SPORTS",SPECTRUM SPORTSNET LA DODGERS 
+https://allinonereborn.tech/doordarshan.m3u8?id=10362
+#EXTINF:-1 tvg-id="us_spectrumsportsnetla.us" tvg-logo="" group-title="SPORTS",SPECTRUM SPORTSNET LAKERS 
+https://allinonereborn.tech/doordarshan.m3u8?id=10365
+#EXTINF:-1 tvg-id="us_atandtsportsnetpittsburgh.us" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH 
+https://allinonereborn.tech/doordarshan.m3u8?id=10740
+#EXTINF:-1 tvg-id="us_atandtsportsnetrockymountain.us" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET ROCKY MOUNTAIN 
+https://allinonereborn.tech/doordarshan.m3u8?id=10743
+#EXTINF:-1 tvg-id="us_atandtsportsnetsouthwest.us" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=10746
+#EXTINF:-1 tvg-id="us_comcastsnynewyorksportsnet.us" tvg-logo="" group-title="SPORTS",COMCAST SPORTSNET NEW YORK 
+https://allinonereborn.tech/doordarshan.m3u8?id=10749
+#EXTINF:-1 tvg-id="us_elevensports.us" tvg-logo="" group-title="SPORTS",US | ELEVEN SPORTS 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=23840
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-logo="" group-title="SPORTS",PL | ELEVEN SPORTS ENGLISH 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=23830
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-logo="" group-title="SPORTS",PL | ELEVEN SPORTS 2 ENGLISH 4K 
+https://allinonereborn.tech/doordarshan.m3u8?id=23835
+#EXTINF:-1 tvg-id="us_pac12washington.us" tvg-logo="" group-title="SPORTS",PAC-12 WASHINGTON HD 
+https://allinonereborn.tech/doordarshan.m3u8?id=5308
+#EXTINF:-1 tvg-id="us_pac12losangeles.us" tvg-logo="" group-title="SPORTS",PAC-12 LOS ANGELES HD 
+https://allinonereborn.tech/doordarshan.m3u8?id=5306
+#EXTINF:-1 tvg-id="us_pac12oregon.us" tvg-logo="" group-title="SPORTS",PAC-12 OREGON HD 
+https://allinonereborn.tech/doordarshan.m3u8?id=5309
+#EXTINF:-1 tvg-id="us_pac12arizona.us" tvg-logo="" group-title="SPORTS",PAC-12 ARIZONA 
+https://allinonereborn.tech/doordarshan.m3u8?id=10750
+#EXTINF:-1 tvg-id="us_pac12bayarea.us" tvg-logo="" group-title="SPORTS",PAC-12 BAY AREA 
+https://allinonereborn.tech/doordarshan.m3u8?id=10753
+#EXTINF:-1 tvg-id="us_pac12network.us" tvg-logo="" group-title="SPORTS",PAC-12 NETWORK 
+https://allinonereborn.tech/doordarshan.m3u8?id=10756
 
 
 
